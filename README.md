@@ -22,6 +22,7 @@ For instructions see the following links:
 
 The exact version required for this to work but it is known to work with:
 -   matlab 2017a or octave 4.2.2 and PTB 3.0.16.
+-   macOS 10.14.6, matlab 2017b and PTB 3.0.16.
 
 ## Code guidestyle
 
